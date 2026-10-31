@@ -1,7 +1,6 @@
 {
-  "version": "0.27",
+  "version": "0.28",
   "notes": [
-    "Fehler behoben: Plopp-Ton bei 3 und 4 Blasen fehlte",
-    "Tipp: Im Hauptmenü unter „Plopp-Klang“ deinen Lieblingsklang wählen"
+    "Plopp-Ton jetzt dezent und weich: ein sanfter Ton pro Zug"
   ]
 }
