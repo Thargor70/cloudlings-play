@@ -1,7 +1,8 @@
 {
-  "version": "0.24",
+  "version": "0.25",
   "notes": [
-    "Bonus-Station hängt jetzt am letzten Level der Insel",
-    "Freischaltung erst mit 3 Sternen in allen 5 Leveln"
+    "Bonus-Level: beide Ziele (Cloudlings und Eisblasen) gut sichtbar",
+    "Hinweis, wenn nur noch Eisblasen fehlen",
+    "Helferleiste ohne Deko dahinter"
   ]
 }
