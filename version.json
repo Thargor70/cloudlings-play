@@ -1,8 +1,8 @@
 {
-  "version": "0.22",
+  "version": "0.23",
   "notes": [
-    "Bonus-Station auf jeder Insel (ab 12 von 15 Sternen)",
-    "Neue Hindernisse: Eisblasen und Gewitterwolken",
-    "Belohnung: Insel-Krone und ein Gold-Helfer"
+    "Insel geschafft: Die Karte zeigt die Bonus-Station mit Freischalt-Animation",
+    "Plopp-Töne besser hörbar, auch auf kleinen Lautsprechern",
+    "Ton-Test im Pausemenü"
   ]
 }
