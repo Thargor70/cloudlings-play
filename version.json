@@ -1,6 +1,7 @@
 {
-  "version": "0.28",
+  "version": "0.29",
   "notes": [
-    "Plopp-Ton jetzt dezent und weich: ein sanfter Ton pro Zug"
+    "Neues, aufgeräumtes Hauptmenü",
+    "Einstellungen mit Ton-Schalter, Plopp-Klang und Thema"
   ]
 }
