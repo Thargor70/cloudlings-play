@@ -1,7 +1,8 @@
 {
-  "version": "0.21",
+  "version": "0.22",
   "notes": [
-    "Hinweis auf neue Versionen im Hauptmenü",
-    "Ton stabiler, Ton-Zustand wird für die Fehlersuche mitgeschickt"
+    "Bonus-Station auf jeder Insel (ab 12 von 15 Sternen)",
+    "Neue Hindernisse: Eisblasen und Gewitterwolken",
+    "Belohnung: Insel-Krone und ein Gold-Helfer"
   ]
 }
