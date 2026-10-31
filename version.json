@@ -1,8 +1,7 @@
 {
-  "version": "0.25",
+  "version": "0.26",
   "notes": [
-    "Bonus-Level: beide Ziele (Cloudlings und Eisblasen) gut sichtbar",
-    "Hinweis, wenn nur noch Eisblasen fehlen",
-    "Helferleiste ohne Deko dahinter"
+    "Plopp-Ton jetzt auch bei 3 Blasen gut hörbar",
+    "Weicheres, zufriedenes „Pling“ nach jedem Zug"
   ]
 }
