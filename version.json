@@ -1,8 +1,7 @@
 {
-  "version": "0.23",
+  "version": "0.24",
   "notes": [
-    "Insel geschafft: Die Karte zeigt die Bonus-Station mit Freischalt-Animation",
-    "Plopp-Töne besser hörbar, auch auf kleinen Lautsprechern",
-    "Ton-Test im Pausemenü"
+    "Bonus-Station hängt jetzt am letzten Level der Insel",
+    "Freischaltung erst mit 3 Sternen in allen 5 Leveln"
   ]
 }
