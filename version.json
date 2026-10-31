@@ -1,7 +1,7 @@
 {
-  "version": "0.26",
+  "version": "0.27",
   "notes": [
-    "Plopp-Ton jetzt auch bei 3 Blasen gut hörbar",
-    "Weicheres, zufriedenes „Pling“ nach jedem Zug"
+    "Fehler behoben: Plopp-Ton bei 3 und 4 Blasen fehlte",
+    "Tipp: Im Hauptmenü unter „Plopp-Klang“ deinen Lieblingsklang wählen"
   ]
 }
